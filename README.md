@@ -11,17 +11,17 @@ Stats on Tables
 
 ### Installation
 
-Edit the file list_file.txt to list your object(s) - current version only supports a single view as an input
-Edit the file logon_file.txt to use your credentials and server name.
+Edit the file list_file.txt to list your object(s) - current version only supports a single view as an input  
+Edit the file logon_file.txt to use your credentials and server name.  
 
 ### pre requisites
-This will only work on Windows
-You need to have bteq installed on your machine
-you need to have access to the Teradata Database you are querying
+This will only work on Windows  
+You need to have bteq installed on your machine  
+you need to have access to the Teradata Database you are querying  
 
 ### Usage
 
-On Windows either double click the db_child.exe file or run it from cmd
+On Windows either double click the db_child.exe file or run it from cmd  
 
 ### Contributing
 
