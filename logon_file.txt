@@ -1,0 +1,1 @@
+.LOGON <server name>/<userid>,<password>;
